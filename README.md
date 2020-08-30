@@ -1,7 +1,5 @@
 # DB_Node.js_HTTP
-
-
-
+  
 自作したゲーム（ウェブ上で動くアプリ・サービス）が
 自分が思い描いた通りに動くようになったので
 
@@ -11,8 +9,8 @@
 ユーザ・データを蓄積出来るようにしたい
 と思い
 
-・　Node.js
-・　DB（データベース）
+- Node.js
+- DB（データベース）
 
 を弄っていたんですが
 躓く事が多かったので
@@ -25,8 +23,8 @@ https://twitter.com/research_coding/status/1299788864354123776?s=20
 
 ９月の目標は
 
-DB
-Node.js
+- DB
+- Node.js
 
 の基礎知識
 JavaScript言語を使ったHTTP通信の知識・経験値
@@ -40,27 +38,18 @@ JavaScript言語を使ったHTTP通信の知識・経験値
 
 なのでこれからの学習予定は
 
-平日：　基礎学習
-週末：　モノ作り
+- 平日：　基礎学習
+- 週末：　モノ作り
 
 というスケジュールでいきたいと思います
 
-
-
 ## 電子書籍
-
-
 
 本家本元 < Node.js > のサイト
 
-
-
-
 Node.js
 
-
 Node.js速 is a JavaScript runtime built on Chrome's V8 JavaScr
-
 
 nodejs.org
 
