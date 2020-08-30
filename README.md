@@ -16,7 +16,7 @@
 躓く事が多かったので  
 次に繋げる為の課題が出来ました
 
-[a](https://twitter.com/research_coding/status/1299788864354123776?s=20)
+[Twitter](https://twitter.com/research_coding/status/1299788864354123776?s=20)
 
 なので  
 今ある２つの問題点を改善する為に
@@ -43,20 +43,26 @@ JavaScript言語を使ったHTTP通信の知識・経験値
 
 というスケジュールでいきたいと思います
 
-## 学習素材
+---
 
-### 電子書籍
+# 学習素材
 
-本家本元 < Node.js > のサイト
+---
 
-Node.js
+### Web書籍
 
-Node.js速 is a JavaScript runtime built on Chrome's V8 JavaScr
+本家本元
+- [Node.js 本サイト　(日本語)](https://nodejs.org/ja/)
+- [API　(英語)](https://nodejs.org/api/)
 
-nodejs.org
+日本語ソース
+- [MDN - Express/Node.js](https://nodejs.org/api/)
+- [jsprimer - 第二部:ユースケース](https://jsprimer.net/use-case/)
+- [Qiita - Node.js を5分で大雑把に理解する](https://qiita.com/hshimo/items/1ecb7ed1b567aacbe559)
 
-第二部: 応用編（ユースケース） · JavaScript Primer #jsprimer
+英語ソース
+- [w3schools - Node.js Intro　(英語)](https://www.w3schools.com/nodejs/nodejs_intro.asp)
+- [tutorialspoint - Node.js Intro　(英語)](https://www.tutorialspoint.com/nodejs/nodejs_introduction.htm)
 
-第二部では第一部の基本文法で学んだことを応用し、具体的なユースケースを中心に紹介します
 
-jsprimer.net
+
