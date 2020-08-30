@@ -16,7 +16,7 @@
 躓く事が多かったので  
 次に繋げる為の課題が出来ました
 
-[a][https://twitter.com/research_coding/status/1299788864354123776?s=20]
+[a](https://twitter.com/research_coding/status/1299788864354123776?s=20)
 
 なので  
 今ある２つの問題点を改善する為に
