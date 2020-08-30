@@ -16,7 +16,7 @@
 躓く事が多かったので  
 次に繋げる為の課題が出来ました
 
-https://twitter.com/research_coding/status/1299788864354123776?s=20
+https://platform.twitter.com/embed/index.html?dnt=true&embedId=twitter-widget-0&frame=false&hideCard=false&hideThread=false&id=1299788864354123776&lang=ja&origin=https%3A%2F%2Fnote.com%2Fiwabm%2Fn%2Fnb27695bbf30e&siteScreenName=note_PR&theme=light&widgetsVersion=223fc1c4%3A1596143124634&width=550px
 
 なので  
 今ある２つの問題点を改善する為に
