@@ -85,60 +85,47 @@ JavaScript言語を使ったHTTP通信の知識・経験値
 <br>
 <br>
 
-### オンライン動画学習
+### プロジェクト（英語）
 
+- [NodeJS | The Odin Project](https://www.theodinproject.com/courses/nodejs)
+- [tutorialspoint - First Application](https://www.tutorialspoint.com/nodejs/nodejs_first_application.htm)
+- [45 Amazing Node.js Open Source for the Past Year (v.2019)](https://medium.mybridge.co/45-amazing-node-js-open-source-for-the-past-year-v-2019-c774d750e925)
+- [6 Types of Applications You Can Build With Node.js](https://www.netguru.com/blog/node-js-apps)
+- [GitHub - Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
+- [https://thinkmobiles.com/blog/node-js-app-examples/](https://thinkmobiles.com/blog/node-js-app-examples/)
 
-<div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/javascript-best-practices-for-data/working-effectively-with-javascript-data?claim=AQGPn16kcEodbwAAAXRCjB99UD8HOkwsYrXXFKcUYrJnLgl0VwU8vb7hfh274jH2VPrZXfY-co_DIEnr0MF23NPVNLDv8ThPePyCi5BIEY7fHzoe1WHEVIr7AAWN08jRSbFV7iX1F_61ujQ2eaHnm-olvINHRzy5sYupxnCnKYFW8liRHSuAiYm83snothyxnlal04P0Ipm5xKHigvhE212IZ6vjge_sgWnlqb3jv0q9AGSs1_hsDBCWWyNAFXeAJhHLPaJbOAXzMhLbxMFJ9Y1NvOFvxhjpgTRKiQd_nWJ4LJQG0U00X_zdRBsydcsVoFrkWlhvdnWg6guHVCVAVSX4IpEYr63RJAbQcu1FCZbMLS-M7eZh3eCqcmIp_QL3oDuX3xmUEASH3_zGL__oy3TVVngdyTPhlK1A8TGkD67hnuNGXgKgywewDp0BiSmYefNbuhL8dhs-cCl6ibvWKuW7__c8SAQ0olxuvPUdriqZ2xrhDIPzma9ueG8AGomrdHbQIY4bjAzrZGnGLP2KzOJaH2XvTrSbQwZpcdPx-QjrZ5UbfwWaWKYFxuH2peBOkS1OVqPtKw9DLDoOas0cLauI-oBBls1F-mvWDJHiOoi-jN8hs3a-0wN3eGMltepy3AkkHWVQffUjZHb44tdeSVqLHLfHoQJwtMo7e5aDOHCGJ-gvuaSyyCg79D0XRY0AwhgY4wAyqs2haeiRzd-u4X9ZMzEUMdIstFLABBNy8pnrH4iPTGQ" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/javascript-best-practices-for-data/working-effectively-with-javascript-data?trk=embed_lil">Working effectively with JavaScript data</a></strong> from <strong><a href="https://www.linkedin.com/learning/javascript-best-practices-for-data?trk=embed_lil">JavaScript: Best Practices for Data</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/sasha-vodnik?trk=embed_lil">Sasha Vodnik</a></strong></p>
+### オンライン動画（英語）
 
+#### DBについて
 
+LinkedInコース
+- [JavaScript: Best Practices for Data](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fjavascript-best-practices-for-data%3Ftrk%3Dshare_ent_url&account=35392996)
+- [SQL Essential Training](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsql-essential-training-3%3Ftrk%3Dshare_ent_url&account=35392996)
+- [Learning SQL Programming](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-sql-programming%3Ftrk%3Dshare_ent_url&account=35392996)
+- [Advanced SQL for Data Scientists](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fadvanced-sql-for-data-scientists%3Ftrk%3Dshare_ent_url&account=35392996)
+- [MySQL Essential Training](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fmysql-essential-training-2%3Ftrk%3Dshare_ent_url&account=35392996)
+- [Database Clinic: SQLite](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fdatabase-clinic-sqlite%3Ftrk%3Dshare_ent_url&account=35392996)
 
+Youtube Clip
+- [MySQL Tutorial for Beginners [Full Course]](https://youtu.be/7S_tz1z_5bA)
+- [SQL vs NoSQL or MySQL vs MongoDB](https://youtu.be/ZS_kXvOeQ5Y)
+- [MySQL IN 10 MINUTES (2020) | Introduction to Databases, SQL, & MySQL](https://youtu.be/2bW3HuaAUcY)
+- [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY)
+- [Playlist - MySQL Database Tutorial](https://www.youtube.com/watch?v=KgiCxe-ZW8o&list=PL32BC9C878BA72085)
 
+<br>
+<br>
 
+#### Node.js について
 
+LinkedInコース
+- [Node.js Essential Training](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fnode-js-essential-training-3%3Ftrk%3Dshare_ent_url&account=35392996)
+- [Learning Node.js](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-node-js-2%3Ftrk%3Dshare_ent_url&account=35392996)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Youtube Clip
+- [Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh](https://www.youtube.com/watch?v=TlB_eWDSMt4)
+- [Learn Node.js - Full Tutorial for Beginners](https://www.youtube.com/watch?v=RLtyhwFtXQA)
+- [MySQL IN 10 MINUTES (2020) | Introduction to Databases, SQL, & MySQL](https://youtu.be/2bW3HuaAUcY)
+- [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY)
+- [Playlist - Node JS Tutorial for Beginners](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 
