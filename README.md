@@ -64,10 +64,9 @@ JavaScript言語を使ったHTTP通信の知識・経験値
 <br>
 <br>
 
-### Web書籍
+## Web書籍
 
-<br>
-<br>
+#### Node.js について
 
 本家本元
 - [Node.js 本サイト　(日本語)](https://nodejs.org/ja/)
@@ -85,7 +84,9 @@ JavaScript言語を使ったHTTP通信の知識・経験値
 <br>
 <br>
 
-### プロジェクト（英語）
+## プロジェクト（英語）
+
+#### Node.js について
 
 - [NodeJS | The Odin Project](https://www.theodinproject.com/courses/nodejs)
 - [tutorialspoint - First Application](https://www.tutorialspoint.com/nodejs/nodejs_first_application.htm)
@@ -94,7 +95,10 @@ JavaScript言語を使ったHTTP通信の知識・経験値
 - [GitHub - Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 - [https://thinkmobiles.com/blog/node-js-app-examples/](https://thinkmobiles.com/blog/node-js-app-examples/)
 
-### オンライン動画（英語）
+<br>
+<br>
+
+## オンライン動画（英語）
 
 #### DBについて
 
@@ -113,9 +117,6 @@ Youtube Clip
 - [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY)
 - [Playlist - MySQL Database Tutorial](https://www.youtube.com/watch?v=KgiCxe-ZW8o&list=PL32BC9C878BA72085)
 
-<br>
-<br>
-
 #### Node.js について
 
 LinkedInコース
@@ -129,3 +130,4 @@ Youtube Clip
 - [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY)
 - [Playlist - Node JS Tutorial for Beginners](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 
+### プロジェクト（英語）
