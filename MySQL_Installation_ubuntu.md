@@ -1,7 +1,11 @@
-MySQL インストールの仕方 (Ubuntu)
+# MySQL インストールの仕方 (Ubuntu)
 
-source  
+## source  
+
 https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/#apt-repo-fresh-install
+
+<br>
+<br>
 
 先ずはアップデート　　
 
@@ -15,7 +19,19 @@ https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/#apt-repo-fresh-install
 
 `shell> sudo apt-get install mysql-workbench-community`
 
-出来ないらしい  
+workbench　はインストール出来ないらしい  
 
 `No apt package "mysql-workbench-community", but there is a snap with that name.`  
 `Try "snap install mysql-workbench-community"`
+
+でも snap install mysql-workbench-community は出来た！
+
+そして、アップデート  
+
+`shell> sudo apt-get update`
+
+---
+
+# Installing MySQL NDB Cluster Using the APT Repository
+
+これ必要？？？
