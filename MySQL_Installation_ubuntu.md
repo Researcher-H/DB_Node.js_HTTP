@@ -32,6 +32,13 @@ workbench　はインストール出来ないらしい
 
 ---
 
-# Installing MySQL NDB Cluster Using the APT Repository
+次に MySQL NDB Cluster  
 
-これ必要？？？
+先ずはファイルをダウンロードして、インストール  
+
+`sudo dpkg -i mysql-apt-config_w.x.y-z_all.deb`
+
+そして、アップデート  
+
+`shell> sudo apt-get update`
+
