@@ -17,5 +17,5 @@ https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/#apt-repo-fresh-install
 
 出来ないらしい  
 
-`No apt package "mysql-workbench-community", but there is a snap with that name.` &nbsp
+`No apt package "mysql-workbench-community", but there is a snap with that name.`  
 `Try "snap install mysql-workbench-community"`
