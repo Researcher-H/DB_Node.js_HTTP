@@ -131,3 +131,14 @@ Youtube Clip
 - [Playlist - Node JS Tutorial for Beginners](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 
 ### プロジェクト（英語）
+
+
+#### DB設計 について
+
+#### ソース
+- [達人に学ぶDB設計指南書から学んだこと. 今回は、「達人に学ぶDB設計指南書」という本を読んで自分が学んだことについて述べ… \| by Taiga Ishii | Medium](https://medium.com/@shichisan/%E9%81%94%E4%BA%BA%E3%81%AB%E5%AD%A6%E3%81%B6db%E8%A8%AD%E8%A8%88%E6%8C%87%E5%8D%97%E6%9B%B8%E3%81%8B%E3%82%89%E5%AD%A6%E3%82%93%E3%81%A0%E3%81%93%E3%81%A8-32eb3edf0d21)
+- [【DB設計】正規化とパフォーマンス - Qiita](https://qiita.com/sho91/items/4845b10563a57cf69fbc)
+- [DB論理設計のノウハウ - Qiita](https://qiita.com/kiyodori/items/5083ad8bbfc232d01827) <-- a lot of details
+- [4ステップで作成する、DB論理設計の手順とチェックポイントまとめ - Qiita](https://qiita.com/nishina555/items/a79ece1b54faf7240fac)
+- [データベースを学ぶ魅力を徹底解説、RDBアンチパターンや最強DB設計とは？〜「失敗から学ぶ RDBの正しい歩き方」著者が語る〜 \| FLEXY（フレキシー）](https://flxy.jp/article/10813)
+- [決して陳腐化しないデータベース設計の超基礎 \| 技術トピックス | ウルシステムズ株式会社](https://www.ulsystems.co.jp/topics/006)
