@@ -133,7 +133,7 @@ Youtube Clip
 ### プロジェクト（英語）
 
 
-#### DB設計 について
+### DB設計 について
 
 #### ソース
 - [達人に学ぶDB設計指南書から学んだこと. 今回は、「達人に学ぶDB設計指南書」という本を読んで自分が学んだことについて述べ… \| by Taiga Ishii | Medium](https://medium.com/@shichisan/%E9%81%94%E4%BA%BA%E3%81%AB%E5%AD%A6%E3%81%B6db%E8%A8%AD%E8%A8%88%E6%8C%87%E5%8D%97%E6%9B%B8%E3%81%8B%E3%82%89%E5%AD%A6%E3%82%93%E3%81%A0%E3%81%93%E3%81%A8-32eb3edf0d21)
