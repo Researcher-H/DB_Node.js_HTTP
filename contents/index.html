@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JS Q-Form</title>
+  <!-- <script type="text/javascript" src="../js/jQuery_form.js"></script> -->
+</head>
+<body>
+
+  <div class="profBox" id="formarea">
+    <h1>入力フォーム</h1>
+    <dl>
+        <dt>メールアドレス※</dt>
+        <dd>
+            <div>
+                <input type="text" name="mailarea"  placeholder="info@startout.work" class="inputText mailarea" />
+                <!--入力を確認する際は、下記に入力内容が表示されます-->
+                <div class="mailareaConfirmation"></div>
+                <!--ミスがあった際は、下記にエラーが表示されます-->
+                <div class="missmailbox"></div>
+            </div>
+        </dd>
+    </dl>
+    <dl>
+        <dt>お名前※</dt>
+        <dd>
+            <div>
+                <input type="text" name="namedata"  placeholder="例) 佐々木 太郎" class="inputText namearea" />
+                <div class="namedataConfirmation"></div>
+                <div class="missnamebox"></div>
+            </div>
+        </dd>
+    </dl>
+    <dl>
+        <dt>備考</dt>
+        <dd>
+            <div>
+                <textarea name="textboxdata" class="textboxdata textboxarea"></textarea>
+                <div class="textboxdataConfirmation"></div>
+            </div>
+        </dd>
+    </dl> 
+    <!--入力時にはこちらのボタンが表示されます。-->
+    <div class="makesurebox">
+        <button class="btnStyle1 submitarea">確認</button>
+    </div>    
+    <!--確認時にはこちらのボタンが表示されます。最初はクラスdelateareaで非表示に。-->
+    <div class="delatearea backandsendbox">
+        <button class="btnStyle1 backBtnArea mgb10px">戻る</button>
+        <button class="btnStyle1 sendBtnArea">送信</button>
+    </div>    
+  </div>
+
+  <script>
+    document.querySelectorAll("h1").innerHTML = "mail form";
+  </script>
+
+</body>
+</html>
