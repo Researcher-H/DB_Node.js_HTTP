@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>JS Q-Form</title>
-  <!-- <script type="text/javascript" src="../js/jQuery_form.js"></script> -->
+  <script type="text/javascript" src="../js/test_form.js" defer></script>
 </head>
 <body>
 
@@ -14,7 +14,7 @@
         <dt>メールアドレス※</dt>
         <dd>
             <div>
-                <input type="text" name="mailarea"  placeholder="info@startout.work" class="inputText mailarea" />
+                <input type="text" name="mailarea"  placeholder="example@example.com" class="inputText mailarea" />
                 <!--入力を確認する際は、下記に入力内容が表示されます-->
                 <div class="mailareaConfirmation"></div>
                 <!--ミスがあった際は、下記にエラーが表示されます-->
@@ -26,7 +26,7 @@
         <dt>お名前※</dt>
         <dd>
             <div>
-                <input type="text" name="namedata"  placeholder="例) 佐々木 太郎" class="inputText namearea" />
+                <input type="text" name="namedata"  placeholder="Suzuki Taro" class="inputText namearea" />
                 <div class="namedataConfirmation"></div>
                 <div class="missnamebox"></div>
             </div>
@@ -52,9 +52,11 @@
     </div>    
   </div>
 
-  <script>
-    document.querySelectorAll("h1").innerHTML = "mail form";
-  </script>
+  <br>
+
+  <p id="y_highlight" >HTML ソース <br> https://base91.net/jquery-mission-9/ </p>
+  <br>
+  <p id="js_data" >data here</p>
 
 </body>
 </html>
